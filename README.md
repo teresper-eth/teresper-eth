@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Terry Casper</h1>
-<h3 align="center">Crypto Innovation 👨‍💻 | Security Blockchain Architect ⛓️‍💥 | Web3 Strategist 🌐 | Former Dev at Akido Labs🏢</h3>
+<h3 align="center">Crypto Innovation 👨‍💻 | Security Blockchain Architect ⛓️‍💥 | Web3 Strategist 🌐 </h3>
 
 ### About Me
 
